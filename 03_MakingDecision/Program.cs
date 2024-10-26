@@ -4,26 +4,24 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _01_MainSubjects
+namespace _03_MakingDecision
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            int test = 60;
 
-            #region test
-            Console.Write("test");
+            if (true)
+            {
 
-            Console.WriteLine("test");
+            }
 
-            Console.Read();
+            else
+            {
 
-            #endregion
+            }
 
-            #region asd
-
-
-            #endregion
         }
     }
 }
